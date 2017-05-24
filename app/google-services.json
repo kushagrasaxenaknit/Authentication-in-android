@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245066219196",
+    "firebase_url": "https://leasing-manager-f23f1.firebaseio.com",
+    "project_id": "leasing-manager-f23f1",
+    "storage_bucket": "leasing-manager-f23f1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245066219196:android:52926fdefe0d37c9",
+        "android_client_info": {
+          "package_name": "com.example.kushagrasaxena.leasingmanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245066219196-dscg2qdoct8ndg7emcs6765oa2tsscfr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.kushagrasaxena.leasingmanager",
+            "certificate_hash": "9f62aa866c58ac2a74368342ab2b31bc782ce594"
+          }
+        },
+        {
+          "client_id": "245066219196-i81knfi8uqm67peadhqbguijcn7s2dpk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw5NAMFNrPF-akxG9Rhv5TUddiLKn-inc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245066219196-i81knfi8uqm67peadhqbguijcn7s2dpk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

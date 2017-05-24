@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Firebase Authentication</string>
+    <string name="loading">Loading…</string>
+    <string name="log_error_occurred">"Error occurred: "</string>
+    <string name="drawer_open">Open</string>
+    <string name="drawer_close">Close</string>
+
+    <string name="web_client_id">245066219196-i81knfi8uqm67peadhqbguijcn7s2dpk.apps.googleusercontent.com</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
